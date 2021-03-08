@@ -1,0 +1,24 @@
+Scrum adalah framework dimana kita bisa menyelesaikan problem complex tapi adaptiv dan harus segera mendelivery produk nya dalam posisi terbaiknya
+
+Kenapa scrum? caranya untuk menghadapi sesuatu yang kita tidak bisa kendalikan dengan baik satu2nya adalah dengan cara ierative dan incremental
+
+Agile adalah sekelompok metodologi pengembangan perangkat lunak yang didasarkan pada prinsip-prinsip yang sama atau pengembangan sistem jangka pendek yang memerlukan adaptasi cepat dari pengembang terhadap perubahan dalam bentuk apapun
+
+scrum component
+- role 
+- artifacts
+- events
+
+scrum process ( puteran iterasi )
+1. product owner ( orang yang pengen dibuatkan produk nya/ pemilik )
+2. sprint planning ( kita harus melibatkan product owner dengan seluruh tim termasuk didalam nya ada scrum master nya )
+3. daily scrum ( bos sudah tidak terlibat, meeting harian hari ini ngapain dan mau ngapain kedepannya )
+4. sprint execution ( dilakukan terus selama durasi sprint )
+5. sprint review ( mereview sprint, apakah sprint yang direncanakan sudah tercapai atau belum. disini ada bos dan sprint master nya serta tim. kalo ga sesuai gimana PO nya mau ulang atau engga  )
+6. sprint retrospective ( kegiatan ini terjadi setelah ulasan sprint dan sebelum perencanaan sprint berikutnya )
+setelah itu lakukan dari depan lagi planning bareng bos, konsep scrum memang iterasi jadi balik lagi terus levelnya harus naik 
+
+
+backlog fitur/user story karena didalam scrum cara menyampaikannya dengan user story
+
+BERAKHIR WEB/APLIKASI BEBAS GIMANA KESANGGUPAN KELP
